@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FurnitureStore.Connections.ToDataBase" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAUAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Connections\ToDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Administrator.AdminModel" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAEAAAAQABAIAAACCAAAQAAAAAAA=</HashCode>
+      <FileName>Model\Administrator\AdminModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Manager.MyManager" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAAEAAAAQIFAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Model\Manager\MyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Manager.Orders" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Manager\Orders .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Category" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Furniture" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAEAQAAAAgAEAgAAAYAAAEAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\Furniture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.FurnitureModel" Collapsed="true">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Model\FurnitureModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.IOController&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAACAAAAAAAAIAAAAAAAAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Model\IOController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Form1" Collapsed="true">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAQAAAIGBAAkAEAAiAAIACAAkggAAAAAwJBQBAAAA=</HashCode>
+      <FileName>View\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Customers" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABAgAACAAAACAAAAIAAAAAAAAARAAAA=</HashCode>
+      <FileName>View\Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.Model.Authorization" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQQABQAACAAABAAAASAAAACAAAAAAAAEAAAAQBAAAA=</HashCode>
+      <FileName>View\Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.Shop.MainShop" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACAAAACAIAAAAAAAAgAAQAAAAA=</HashCode>
+      <FileName>View\Shop\MainShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.ProductView.EditProduct" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIACBAAxAgAAGABAAKEEAAAAAAACAAAADBAiA=</HashCode>
+      <FileName>View\ProductView\EditProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.ProductView.AddProduct" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAgACAAARAQAAuABgAOEEAAAQAAECBQAABBAiA=</HashCode>
+      <FileName>View\ProductView\AddProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.ProductView.AddCategory" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAICAAABAAAACABAACEEAAAQAAEAAIBAAAAAA=</HashCode>
+      <FileName>View\ProductView\AddCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.Manager" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACgAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\ManagerView\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.AdminInfoView.AdminInfo" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAACCCAABAAABHAAAACAAAAAAAAYBAARABIACA=</HashCode>
+      <FileName>View\AdminInfoView\AdminInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.AdminInfoView.RegisterForm" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAQAACCAARAAgACIBAACEAAgAAAAARAAAABAACA=</HashCode>
+      <FileName>View\AdminInfoView\RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureStore.View.AdminInfoView.SelectTeamRegistration" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\AdminInfoView\SelectTeamRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
